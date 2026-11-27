@@ -1,0 +1,3 @@
+policy_type_id, policy_type_name, coverage_type, description
+001, Health, Individual, Covers Medical Expenses
+002, Auto, Vehicle, 
